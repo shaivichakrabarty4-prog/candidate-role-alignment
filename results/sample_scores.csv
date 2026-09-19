@@ -1,0 +1,6 @@
+candidate,alignment,heuristic_control,divergence,years,skills,skills_match,experience_depth,domain_relevance,seniority_fit,trajectory
+candidate_01,8.9,8.9,0.0,6.0,"sql, python, analytics, visualisation, data_engineering, product, ml",9.2,9.0,10.0,7.0,8.2
+candidate_03,8.5,8.5,0.0,5.0,"sql, python, analytics, data_engineering, cloud",8.3,9.0,7.0,10.0,8.2
+candidate_04,7.5,7.5,0.0,4.0,"sql, analytics, stakeholder",5.8,8.0,7.0,10.0,8.9
+candidate_02,7.1,7.1,0.0,2.0,"sql, python, analytics, visualisation, ml, stakeholder",9.2,5.5,5.0,7.0,9.5
+candidate_05,5.7,5.7,0.0,0.0,"sql, python, analytics, visualisation, ml",8.3,3.0,5.0,4.0,8.2
