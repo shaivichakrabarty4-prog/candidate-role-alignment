@@ -1,0 +1,16 @@
+Analytics Intern
+
+Summary
+Final-year student. Coursework and project experience in SQL, Python and
+dashboarding. No full-time professional experience yet.
+
+Projects
+- Sales funnel diagnostic in SQLite using window functions across 1,300 leads
+- Streamlit dashboard visualising retention cohorts for an OTT dataset
+- Pandas and NumPy for data cleaning across scraped HTML sources
+
+Skills
+SQL, Python (pandas, NumPy, Streamlit), Matplotlib, basic machine learning
+
+Education
+B.Tech Information Technology, expected 2026

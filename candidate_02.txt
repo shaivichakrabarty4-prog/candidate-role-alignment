@@ -1,0 +1,17 @@
+Data Analyst
+
+Summary
+2 years experience in marketing analytics. Comfortable in SQL and Excel,
+learning Python. Strong stakeholder communication.
+
+Experience
+Marketing Analyst, Cobalt Retail Group (2024 - Present)
+- Campaign performance reporting, funnel conversion tracking in Google Analytics
+- Weekly SQL extracts from BigQuery for the growth team
+- Built a Power BI dashboard used by the CMO
+
+Junior Analyst, Cobalt Retail Group (2023 - 2024)
+- Ad-hoc reporting, data cleaning, Excel modelling
+
+Education
+B.A. Economics, University of Pune

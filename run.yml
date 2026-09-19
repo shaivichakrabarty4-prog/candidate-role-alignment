@@ -1,0 +1,23 @@
+name: Batch score
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  score:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install pandas tabulate
+      - name: Run headless scoring (heuristic engine, no secrets needed)
+        run: python src/batch_score.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sample-scores
+          path: results/

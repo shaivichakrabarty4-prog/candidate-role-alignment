@@ -1,0 +1,19 @@
+Senior Data Analyst - B2B SaaS
+
+Summary
+6 years experience owning revenue and product analytics for B2B SaaS businesses.
+Partner directly with Sales and Customer Success leadership on pipeline health,
+churn forecasting and pricing.
+
+Experience
+Senior Data Analyst, Northwind Software (2021 - Present)
+- Built the churn early-warning model that joins product telemetry to CRM deal data
+- Own weekly pipeline and funnel reporting for a 40-person go-to-market org
+- SQL (Snowflake, Postgres), Python (pandas, scikit-learn), dbt, Looker
+
+Data Analyst, Brightpath Labs (2020 - 2021)
+- Cohort and retention analysis, A/B testing on onboarding flows
+- Built the first company-wide KPI dashboard in Tableau
+
+Education
+M.Sc. Statistics, University of Leeds

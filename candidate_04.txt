@@ -1,0 +1,17 @@
+Business Analyst - Healthcare
+
+Summary
+4 years experience in healthcare operations analytics. Strong SQL, strong domain
+knowledge in claims and provider data. Limited exposure to SaaS metrics.
+
+Experience
+Business Analyst, Meridian Health (2022 - Present)
+- SQL analysis of claims data, 12M rows, for utilisation review
+- Built cohort retention analysis for a patient engagement programme
+- Presented findings to clinical leadership monthly
+
+Operations Analyst, Meridian Health (2021 - 2022)
+- Excel and SQL reporting on throughput and staffing
+
+Education
+MBA Healthcare Management, Symbiosis

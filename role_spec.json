@@ -1,0 +1,9 @@
+{
+  "title": "Data Analyst, Revenue Analytics",
+  "seniority": "Mid",
+  "min_years": 3,
+  "domain": "B2B SaaS revenue and product analytics",
+  "must_have_skills": ["sql", "python", "analytics"],
+  "nice_to_have_skills": ["visualisation", "data_engineering", "stakeholder"],
+  "description": "Own funnel, churn and expansion analysis for a B2B SaaS go-to-market team. Partner with Sales and Customer Success. Build reporting that people actually use."
+}

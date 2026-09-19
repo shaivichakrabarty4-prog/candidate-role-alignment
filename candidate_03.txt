@@ -1,0 +1,16 @@
+Software Engineer
+
+Summary
+5 years building backend services. Heavy Python and AWS. No formal analytics role,
+but regularly write SQL against production databases for debugging and reporting.
+
+Experience
+Backend Engineer, Kestrel Systems (2021 - Present)
+- Python microservices, Postgres, Airflow pipelines moving 40M events/day
+- Built internal reporting endpoints consumed by the data team
+
+Software Engineer, Ridgeline (2019 - 2021)
+- REST APIs, Django, AWS Lambda
+
+Education
+B.Tech Computer Science, VIT
